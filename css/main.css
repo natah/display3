@@ -1,0 +1,34 @@
+.onebox{
+  
+    background-color: yellow;
+    color: black;
+    width: 500px;
+    height: 500px;
+    padding: 120px;
+    border: 50px;
+    display: inline;
+
+}
+
+.twobox{
+
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: 500px;
+    padding: 120px;
+    border: 100px;
+    display: inline;
+    
+}
+.threebox{
+
+background-color: yellow;
+color: black;
+width: 500px;
+height: 500px;
+padding: 120px;
+border: 50px;
+display: inline;
+
+}
